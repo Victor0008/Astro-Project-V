@@ -29,7 +29,7 @@ header {
 
 main{
   text-align: center;
-  height: 208em;
+  height: auto;
   text-align: justify;
   padding: 20px;
   background-color: #140f4C;
