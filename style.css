@@ -59,7 +59,8 @@ p {
   color: #FFEFB7;
 }
 
-img { width: auto;
+img {
+  width: 50%;
 height: auto;}
 
 
